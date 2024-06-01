@@ -1,6 +1,5 @@
 # DataPrepocessing
-Ini adalah data prepocessing dari dataset Heart Disease
-Berikut ini adalah langkah-langkahnya :
+Ini adalah data prepocessing dari dataset Heart Disease. Berikut ini adalah langkah-langkah dalam melakukan data prepocessing:
 1. Data Preparation
 - Missing value: Mencari missing value 
 - Duplicate value: Mencari duplicate value dan menyelesaikan masalah duplicate value

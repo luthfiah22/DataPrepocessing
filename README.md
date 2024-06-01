@@ -11,4 +11,4 @@ Ini adalah data prepocessing dari dataset Heart Disease. Berikut ini adalah lang
 - Menemukan dan mendeskripsikan statistical five summaries
 - Mendeskripsikan distribusi data
 3. Feature Engineering
-Membuat fitur baru yang relevan dan signifikan untuk dapat membantu membantu bisnis dalam menghadapi tantangan bisnis yang ada
+- Membuat fitur baru yang relevan dan signifikan untuk dapat membantu membantu bisnis dalam menghadapi tantangan bisnis yang ada
